@@ -1,6 +1,6 @@
 {
-  "Version": "1.2.2",
-  "ReleaseNotes": "Nova Atualização de dependências Disponível Obrigatória✅",
+  "Version": "1.2.3",
+  "ReleaseNotes": "Nova Atualização de dependências Disponível Obrigatória🇧🇷✅",
   "UrlUpdate": "https://bitbin.it/oHABDa0Q/raw/",
   "Sms": "https://bitbin.it/scgigaq1/raw/",
   "EmailFeedback": "sshanjjos@gmail.com",
