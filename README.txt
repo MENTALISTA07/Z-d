@@ -1,7 +1,7 @@
 {
-  "Version": "1.2.3",
+  "Version": "1.2.4",
   "ReleaseNotes": "Nova Atualização de dependências Disponível Obrigatória🇧🇷✅",
-  "UrlUpdate": "https://bitbin.it/oHABDa0Q/raw/",
+  "UrlUpdate": "https://raw.githubusercontent.com/MENTALISTA07/Z-d/main/README.txt",
   "Sms": "https://bitbin.it/scgigaq1/raw/",
   "EmailFeedback": "sshanjjos@gmail.com",
   "UrlContato": "https://www.speedtest.net",
